@@ -5,3 +5,10 @@ C:\Users\2021608\source\repos\Bereg2023\Hello\obj\Debug\Hello.csproj.AssemblyRef
 C:\Users\2021608\source\repos\Bereg2023\Hello\obj\Debug\Hello.csproj.CoreCompileInputs.cache
 C:\Users\2021608\source\repos\Bereg2023\Hello\obj\Debug\Hello.exe
 C:\Users\2021608\source\repos\Bereg2023\Hello\obj\Debug\Hello.pdb
+C:\Users\2021608\source\repos\C-Projeckt2023\Bereg2023\Hello\bin\Debug\Hello.exe.config
+C:\Users\2021608\source\repos\C-Projeckt2023\Bereg2023\Hello\bin\Debug\Hello.exe
+C:\Users\2021608\source\repos\C-Projeckt2023\Bereg2023\Hello\bin\Debug\Hello.pdb
+C:\Users\2021608\source\repos\C-Projeckt2023\Bereg2023\Hello\obj\Debug\Hello.csproj.AssemblyReference.cache
+C:\Users\2021608\source\repos\C-Projeckt2023\Bereg2023\Hello\obj\Debug\Hello.csproj.CoreCompileInputs.cache
+C:\Users\2021608\source\repos\C-Projeckt2023\Bereg2023\Hello\obj\Debug\Hello.exe
+C:\Users\2021608\source\repos\C-Projeckt2023\Bereg2023\Hello\obj\Debug\Hello.pdb
